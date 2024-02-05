@@ -5,4 +5,5 @@ to download MHD turbulence datacubes up to 4096^3 for balanced turbulence and up
 
 Directories with "n" indicate simulations with ordinary 2nf order viscosity and "h" indicates 4th order hyperviscosity.
 
-Precomputed statistics of various kinds is in this repository. See "scripts" for code to plot various spectra and structure functions from precomputed statistics and "pics" for these plots.
+Precomputed statistics of various kinds here: https://sites.google.com/view/andreyberesnyak2/simulations/large-rmhd-runs
+See "scripts" for code to plot various spectra and structure functions from precomputed statistics and "pics" for these plots.
